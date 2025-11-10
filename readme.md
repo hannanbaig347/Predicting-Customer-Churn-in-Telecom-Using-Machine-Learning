@@ -22,7 +22,7 @@ The goal was to build an intelligent classification system that identifies custo
 
 ---
 
-### ⚙️ Tools & Technologies
+### Tools & Technologies
 
 * **Programming Language:** Python
 * **Libraries & Frameworks:**
@@ -35,7 +35,7 @@ The goal was to build an intelligent classification system that identifies custo
 
 ---
 
-### 🧩 Methodology
+### Methodology
 
 1. **Data Preprocessing**
 
@@ -62,10 +62,10 @@ The goal was to build an intelligent classification system that identifies custo
 
 ---
 
-### 📈 Results & Model Performance
+### Results & Model Performance
 
 
-**🏆 Final Model:** XGBoost (After Hyperparameter Tuning)
+**Final Model:** XGBoost (After Hyperparameter Tuning)
 
 * Improved minority class (churners) recall from **0% → 20%**, a significant step for early customer retention.
 * Achieved a **balanced trade-off** between accuracy and recall.
@@ -73,7 +73,7 @@ The goal was to build an intelligent classification system that identifies custo
 
 ---
 
-### 📊 Visualizations
+### Visualizations
 
 * Churn Distribution (Imbalanced vs. Balanced using SMOTE)
 * Confusion Matrices for each model
@@ -81,7 +81,7 @@ The goal was to build an intelligent classification system that identifies custo
 
 ---
 
-### 💡 Key Insights
+### Key Insights
 
 * Long-term customers with **month-to-month contracts** and **high monthly charges** are more likely to churn.
 * **Contract type** and **tenure** were the most influential predictors.
