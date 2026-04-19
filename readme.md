@@ -39,7 +39,7 @@ The goal was to build an intelligent classification system that identifies custo
 
 1. **Data Preprocessing**
 
-   * Cleaned real-world telecom dataset (400 records).
+   * Cleaned real-world telecom dataset (2000 records).
    * Handled missing values and categorical variables via one-hot encoding.
    * Addressed class imbalance (many “No Churn” vs few “Yes Churn”) using **SMOTE**.
    * Applied **StandardScaler** for consistent feature scaling.
